@@ -1,0 +1,16 @@
+{
+ "aironet": [
+     {
+        "host_ip": "10.52.10.3",
+        "hostname": "52-jovannieAP",
+        "username": "admin",
+        "password": "pass",
+        "ssid": "GUEST52-jovannie",
+        "authentication": "open",
+        "key-man": "wpa",
+        "wifi-pass": "C1sc0143",
+        "channel": "4",
+        "enc-mod": "tkip"
+     }
+    ]
+}
